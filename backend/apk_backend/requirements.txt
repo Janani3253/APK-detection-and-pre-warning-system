@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+androguard
+fpdf
+python-multipart
