@@ -95,17 +95,6 @@ http://localhost:8000
 
 ---
 
-## 📂 Important Notes
-
-* Do NOT upload:
-
-  * `venv/` or `.venv/`
-  * `__pycache__/`
-  * APK files or large uploads
-* Ensure `requirements.txt` is included for backend setup
-
----
-
 ## 🧪 How It Works
 
 1. User uploads APK via mobile app
